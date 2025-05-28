@@ -1,0 +1,33 @@
+o que instalar
+
+
+npm install dotenv express mongodb mongoose nodemon --save-dev
+
+
+
+npm install express
+
+
+npm install mongodb
+
+npm install mongoose  <---- comando mais facil para fazer comandos do mongodb 
+
+
+npm install dotenv  <----- comando que faz com que crie o arquivo .env onde são colocadas variaveis de segurança (como sennha, login, nome de banco ...)
+
+
+npm install nodemon 
+
+
+npm install --save-dev
+
+$ npm install cors
+
+express
+mongoose  <---- comando mais facil
+
+
+.gitignore   <---- onde colocaca comandos do que não quer que suba pro github  \node_modules  .env
+
+
+http://localhost:3335/sessao/
