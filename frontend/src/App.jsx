@@ -9,12 +9,7 @@ function App() {
       <img src={logo} alt="AirCNC" />
       <div className="content">
         <Root />
-
-
-
       </div>
-
-
     </div>
      
     

@@ -17,6 +17,8 @@ const app = express();
 app.use(express.json());
 app.use(cors());
 
+
+
 // Usa as rotas da aplicação
 app.use(routes);
 
